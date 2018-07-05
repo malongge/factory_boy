@@ -41,7 +41,7 @@ setup(
     author_email='mark@deliciouslynerdy.com',
     maintainer='Raphaël Barrois',
     maintainer_email='raphael.barrois+fboy@polytechnique.org',
-    url='https://github.com/FactoryBoy/factory_boy',
+    url='https://github.com/malongge/factory_boy',
     keywords=['factory_boy', 'factory', 'fixtures'],
     packages=['factory'],
     zip_safe=False,
